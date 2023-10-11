@@ -68,7 +68,7 @@ def main():
 
     # Menu Info ke GitHub Anda dengan tampilan yang lebih menarik
     st.sidebar.markdown('## Info')
-    st.sidebar.markdown('<a href="https://github.com/Sony-Agung/ergonomic_predict" target="_blank" style="text-decoration: none; color: #0366d6;">'
+    st.sidebar.markdown('<a href="https://github.com/Sony-Agung/predict_ergo" target="_blank" style="text-decoration: none; color: #0366d6;">'
                         ' Link ke GitHub</a>', unsafe_allow_html=True)
 
 if __name__ == '__main__':
